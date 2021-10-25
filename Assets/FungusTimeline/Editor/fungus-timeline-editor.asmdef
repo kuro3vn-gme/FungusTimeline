@@ -1,0 +1,20 @@
+{
+    "name": "fungus-timeline-editor",
+    "rootNamespace": "",
+    "references": [
+        "GUID:b7972da95c9eb6d4e8d092a015d34258",
+        "GUID:007db7f7a4c8f944990d71603a110f82",
+        "GUID:34cf00d3f10a8f34783a2f8b914a0219"
+    ],
+    "includePlatforms": [
+        "Editor"
+    ],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}

@@ -1,0 +1,19 @@
+{
+    "name": "com.kuro3vn-gme.fungus-timeline",
+    "displayName": "FungusTimeline", 
+    "version": "1.0.0",               
+    "unity": "2020.2",
+    "description": "Fungus commands for Timeline",
+    "author": {
+        "name": "kurosan",
+        "url": "https://github.com/kuro3vn-gme"
+    },
+
+    "keywords": [
+        "timeline",
+        "fungus"
+    ],
+
+    "dependencies": {
+    }
+}
